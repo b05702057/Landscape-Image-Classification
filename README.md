@@ -1,4 +1,4 @@
-# Landscape-Classification
+# Landscape Image Classification
 
 ### A classification model that can determine whether an image is a landscape image without labeled training data
 
