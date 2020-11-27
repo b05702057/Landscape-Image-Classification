@@ -1,6 +1,6 @@
 # Landscape Image Classification
 
-### A classification model that determine whether an image is a landscape image trained with unsupervied learning algorithms
+### A classification model that determine whether an image is of a landscape trained with unsupervied learning algorithms
 
 ## Task
 Build a classification model with unsupervised learning algorithms like Kmeans and dimension reduction techniques like PCA, t-SNE, and autoencoder.
